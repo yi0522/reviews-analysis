@@ -25,4 +25,3 @@ for d in data:
   		    good.append(d)
 print('一共有',len(good),'留言提到good')
 print(good[0])
-	
